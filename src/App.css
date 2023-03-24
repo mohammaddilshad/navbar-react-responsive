@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: url("https://wallpaperaccess.com/full/24866.jpg") no-repeat fixed center;
+  background-size: cover;
+}
+
+.pages {
+  color: #3a2e89;
+  text-align: center;
+  font-size: 3.5rem;
+  margin-top: 10%;
+}
